@@ -1,0 +1,14 @@
+[2026-01-30T14:21:19.677Z] Starting dev server with command: pnpm run dev
+[2026-01-30T14:21:20.340Z] 
+[2026-01-30T14:21:20.341Z] > lilium-pink@1.0.0 dev /home/ubuntu/lilium-pink
+[2026-01-30T14:21:20.341Z] > vite --host
+[2026-01-30T14:21:20.341Z] 
+[2026-01-30T14:21:20.817Z] 
+[2026-01-30T14:21:20.817Z] VITE v7.1.9  ready in 443 ms
+[2026-01-30T14:21:20.818Z] 
+[2026-01-30T14:21:20.818Z] ➜  Local:   http://localhost:3000/
+[2026-01-30T14:21:20.819Z] ➜  Network: http://169.254.0.21:3000/
+[2026-01-30T14:23:35.605Z] 9:23:35 AM [vite] (client) page reload index.html
+[2026-01-30T14:25:14.594Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-01-30T14:25:16.733Z] 9:25:16 AM [vite] (client) ✨ new dependencies optimized: framer-motion
+[2026-01-30T14:25:16.733Z] 9:25:16 AM [vite] (client) ✨ optimized dependencies changed. reloading
